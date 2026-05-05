@@ -1,0 +1,76 @@
+Filtr testowy
+1 1 1
+1 1 1
+1 1 1
+
+
+
+Filtr Ostrości 1
+-1 -1 -1
+-1 9 -1
+-1 -1 -1
+
+Filtr Ostrości 2
+0 -1 0
+-1 5 -1
+0 -1 0
+
+Filtr Ostrości 3
+1 -2 1
+-2 5 -2
+1 -2 1
+
+Filtr Ostrości 4
+0 -1 0
+-1 20 -1
+0 -1 0
+
+Filtr Krawędzi poziomy
+0 -1 0
+0 1 0
+0 0 0
+
+Filtr Krawędzi pionowy
+0 0 0
+-1 1 0
+0 0 0
+
+Filtr Krawędzi pionowy+poziomy
+-1 0 0
+0 1 0
+0 0 0
+
+Filtr Sobela poziomy
+1 2 1
+0 0 0
+-1 -2 -1
+
+Filtr Sobela pionowy
+1 0 -1
+2 0 -2
+1 0 -1
+
+Filtr Prewitta poziomy
+1 1 1
+0 0 0
+-1 -1 -1
+
+Filtr Prewitta pionowy
+1 0 -1
+1 0 -1
+1 0 -1
+
+Filtr krawędzi - wschód
+-1 0 1
+-1 0 1
+-1 0 1
+
+Filtr krawędzi - południowy wschód
+-1 -1 0
+-1 0 1
+0 1 1
+
+Filtr krawędzi - południowy zachód
+0 -1 -1
+1 0 -1
+1 1 0
